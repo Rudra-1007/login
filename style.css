@@ -3,7 +3,7 @@
 :root {
     --primary-color: #194bbe;
     --secondary-color: #51515a;
-    --background-image: url("bg.avif");
+    --background-image: url("bg.png");
     --shadow-color: rgba(0, 0, 0, 0.1);
     --white-color: #FFF;
     --black-color: #000;
